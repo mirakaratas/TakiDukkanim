@@ -1,0 +1,125 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 0, 149);
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 196, 196);
+}
+
+.a {
+    text-align: center;
+    margin: top 100px;
+    ;
+    color: blue;
+}
+
+.b {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.p {
+    color: rgb(185, 28, 75);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.p2 {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.p3 {
+    font-size: 20px;
+    margin-left: 600px;
+    margin-bottom: 140px;
+    margin-top: -140px;
+}
+
+.p4 {
+    font-size: 20px;
+    margin-left: 600px;
+    margin-bottom: 200px;
+    margin-top: -800px;
+}
+
+.p5 {
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+    margin-top: -450px;
+}
+.p6{
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+    margin-top: -300px;
+}
+.p7{
+    font-size: 30px;
+    color: brown;
+    margin-left: 30px;;
+}
+
+.ul {
+    display: block;
+    margin: top 45px;
+    margin-left: 650px;
+    color: blueviolet;
+    font-size: 30px;
+
+}
+
+.resim {
+    margin-left: 30px;
+
+
+
+}
+
+.resim2 {
+    margin-left: 30px;
+    margin-top: auto;
+
+}
+
+.resim3 {
+    margin-left: 600px;
+
+    margin-top: -300px;
+    margin-bottom: 140px;
+
+}
+
+.resim4 {
+    margin-left: 600px;
+
+    margin-top: -700px;
+    margin-bottom: 800px;
+
+}
+
+.resim5 {
+    margin-left: 1000px;
+    margin-top: -450px;
+    margin-bottom: 450px;
+
+
+}
+
+.resim6 {
+    margin-left: 1000px;
+    margin-top: -150px;
+    margin-bottom: 300px;
+
+}
